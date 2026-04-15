@@ -223,7 +223,7 @@ export default function App() {
         </nav>
 
         <div className="header-actions">
-          <a className="button button-secondary" href="/resume.pdf" download>
+          <a className="button button-secondary" href="/101-portfolio/resume.pdf" download="Aman_Shaw_Resume.pdf">
             Download CV
           </a>
           <button
